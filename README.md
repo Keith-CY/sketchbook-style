@@ -3,10 +3,10 @@
 <p align="center"><b>Turn any object into a page from an industrial designer's sketchbook.</b><br>Black ink on white paper, simplified hardware in three-quarter view, hatching, a few solid blacks, lots of empty paper. Four variants, open image models, no API keys. An Agent Skill for Claude Code and other coding agents.</p>
 
 <p align="center">
-  <a href="https://code.claude.com/docs/en/skills"><img src="https://img.shields.io/badge/Claude_Code-skill-141414?style=flat-square&logo=claude&logoColor=white" alt="Claude Code skill"></a>
-  <a href="https://agentskills.io"><img src="https://img.shields.io/badge/Agent_Skills-compatible-141414?style=flat-square" alt="Agent Skills compatible"></a>
-  <a href="#requirements"><img src="https://img.shields.io/badge/models-Qwen--Image_2.1_·_FLUX.2_·_Z--Image-141414?style=flat-square" alt="Open image models"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-141414?style=flat-square" alt="Apache 2.0 license"></a>
+  <a href="https://code.claude.com/docs/en/skills"><img src="https://img.shields.io/badge/Claude_Code-skill-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=1f2328" alt="Claude Code skill"></a>
+  <a href="https://agentskills.io"><img src="https://img.shields.io/badge/Agent_Skills-compatible-2ea44f?style=flat-square&labelColor=1f2328" alt="Agent Skills compatible"></a>
+  <a href="#requirements"><img src="https://img.shields.io/badge/models-Qwen--Image_2.1_·_FLUX.2_·_Z--Image-0969da?style=flat-square&labelColor=1f2328" alt="Open image models"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-D22128?style=flat-square&labelColor=1f2328" alt="Apache 2.0 license"></a>
 </p>
 
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
