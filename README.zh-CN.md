@@ -12,6 +12,7 @@
 <p align="center"><a href="README.md">English</a> · <b>简体中文</b></p>
 
 <p align="center"><img src=".github/assets/hero.jpg" width="880" alt="用这个 skill 画的八张速写：细笔喷气发动机、马克笔太空头盔、浓墨口袋喷气小装置、粗细对比头盔、带注释的控制台、口袋合成器、野外录音机、一页小电器缩略图。"></p>
+<p align="center"><img src=".github/assets/sheet.jpg" width="880" alt="全部 52 页示例合在一张图里：细笔、马克笔、浓墨、粗细对比各 13 页。"></p>
 
 <p align="center"><sub>本页每一张画都是用这个 skill 画的：ComfyUI 上的 Qwen-Image 2.1，再经过自带的墨线后处理。提示词和种子在 <a href="references/"><code>references/</code></a>。</sub></p>
 

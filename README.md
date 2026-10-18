@@ -12,6 +12,7 @@
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
 
 <p align="center"><img src=".github/assets/hero.jpg" width="880" alt="Eight sketchbook drawings made with this skill: a jet engine in tidy pen, a space helmet in marker, a pocket jet gadget in heavy ink, a helmet with bold outlines and fine details, an annotated console page, a pocket synth, a field recorder and a page of small electronics thumbnails."></p>
+<p align="center"><img src=".github/assets/sheet.jpg" width="880" alt="All 52 sample pages on one sheet: 13 in each variant, pen, marker, ink and contrast."></p>
 
 <p align="center"><sub>Every drawing on this page was made with this skill: Qwen-Image 2.1 on ComfyUI, then the bundled ink post-process. Prompts and seeds are in <a href="references/"><code>references/</code></a>.</sub></p>
 
